@@ -9,7 +9,3 @@ def countdown
     "#{} seconds"
   end
 end
-
-
-
-countdown
