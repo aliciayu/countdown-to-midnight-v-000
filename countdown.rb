@@ -1,10 +1,10 @@
 #write your code here
 
-def countdown
-  countdown-to-midnight = 10
-  until countdown-to-midnight == 1
-    puts "#{countdown-to-midnight}SECOND(S)!"
-    countdown-to-midnight -= 1
+def countdown(countdown_to_midnight)
+  countdown_to_midnight = 10
+  until countdown_to_midnight == 1
+    puts "#{countdown_to_midnight}SECOND(S)!"
+    countdown_to_midnight -= 1
   end
 end
 
