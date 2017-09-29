@@ -8,4 +8,4 @@ def countdown(countdown_to_midnight)
   end
 end
 
-countdown
+
