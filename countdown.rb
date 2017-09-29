@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0)
+def countdown("10", "9", "8", "7", "6", "5", "4", "3", "2", "1", "0")
   countdown.each do|n|
     puts "#{n}SECOND(S)!"
   end
