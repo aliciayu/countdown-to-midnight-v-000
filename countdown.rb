@@ -6,6 +6,7 @@ def countdown
   until seconds == 10
     puts "#{seconds} SECOND(S)!"
     seconds += 1
+    "#{} seconds"
   end
 end
 
