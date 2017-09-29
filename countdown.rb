@@ -8,12 +8,6 @@ def countdown
 #  "HAPPY NEW YEAR!"
 end
 
-names = [ "Fred", "Bob", "Jim" ]
-
-names.each do|n|
-  puts "Hello #{n}"
-end
-
 #def countdown_with_sleep(countdown_to_midnight)
 #  while countdown_to_midnight > 0
 #    "#{countdown_to_midnight}SECOND(S)!"
