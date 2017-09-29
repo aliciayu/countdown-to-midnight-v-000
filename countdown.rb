@@ -7,5 +7,3 @@ def countdown(countdown_to_midnight)
     countdown_to_midnight -= 1
   end
 end
-
-
