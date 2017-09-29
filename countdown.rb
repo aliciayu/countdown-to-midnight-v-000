@@ -7,3 +7,5 @@ def countdown
     countdown-to-midnight -= 1
   end
 end
+
+countdown
