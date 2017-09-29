@@ -1,5 +1,5 @@
 #write your code here
 
-def countdown(10)
+def countdown
   "<n> SECOND(S)"
 end
