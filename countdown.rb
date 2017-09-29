@@ -14,3 +14,6 @@ def countdown_with_sleep
     n -= 5
   end
 end
+
+countdown
+countdown_with_sleep
