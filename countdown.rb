@@ -2,7 +2,7 @@
 
 def countdown
   countdown-to-midnight = 0
-  while countdown-to-midnight < 10
+  until countdown-to-midnight == 10
     puts "#{countdown-to-midnight}SECOND(S)!"
     countdown-to-midnight += 1
   end
