@@ -3,7 +3,7 @@
 def countdown
   countdown-to-midnight = 1
   while countdown-to-midnight < 10
-    countdown-to-midnight += 1
-    puts "#{countdown-to-midnight}SECOND(S)!".each
+    countdown-to-midnight += 1.each
+    puts "#{countdown-to-midnight}SECOND(S)!"
   end
 end
